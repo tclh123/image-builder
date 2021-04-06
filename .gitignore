@@ -1,0 +1,8 @@
+/tmp
+/venv
+
+*.pyc
+__pycache__
+*.egg-info
+
+*.sw[po]
